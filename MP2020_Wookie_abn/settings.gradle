@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MP2020_Wookie_abn"
